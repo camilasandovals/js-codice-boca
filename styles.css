@@ -36,10 +36,36 @@ li{
     border: 5px solid #ffaf31;
     border-radius: 15px 50px;
     padding: 0 15px;
+    background-image: url(/assets/700x700.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center -190px;
 }
 
 header {
     min-height: 200px;
 }
 
-/* SECTION */
+h1 {
+    font-size: calc(3em + 2vw);
+    text-align: center;
+    margin-top: 50px;
+    color:white
+}
+
+/* MENU */
+.menu-list{
+    margin: 5rem auto;
+    column-count: 2;
+    column-gap: 20px;
+    padding: 0 5rem;
+}
+
+
+
+/* FOOTER */
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color: #a9a9a95c;
+}
