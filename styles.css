@@ -38,8 +38,9 @@ li{
     padding: 0 15px;
     background-image: url(/assets/700x700.webp);
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center -190px;
+    background-size: contain;
+    background-position: 0px -190px;
+    width: 100%;
 }
 
 header {
@@ -55,13 +56,16 @@ h1 {
 
 /* MENU */
 .menu-list{
-    margin: 5rem auto;
+    margin: 4rem auto;
     column-count: 2;
     column-gap: 20px;
     padding: 0 5rem;
 }
 
-
+.menu-list div{
+    padding: 0 1rem 1rem;
+    page-break-inside: avoid;
+}
 
 /* FOOTER */
 footer{
