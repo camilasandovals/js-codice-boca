@@ -1,0 +1,23 @@
+{
+  "name": "js-codice-boca",
+  "version": "1.0.0",
+  "description": "Built front-end and connected to an external API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milasandovals/js-codice-boca.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milasandovals/js-codice-boca/issues"
+  },
+  "homepage": "https://github.com/milasandovals/js-codice-boca#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
