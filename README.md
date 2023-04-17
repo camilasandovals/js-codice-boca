@@ -6,4 +6,4 @@ Built front-end for a restaurant and connected to an external API
 
 ## See live
 
-See live demo [in this link](https://milasandovals.github.io/js-codice-boca/)
+See live demo [in this link](https://codice-boca-cs.web.app/)
